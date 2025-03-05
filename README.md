@@ -1,6 +1,11 @@
+
+# Smart TV 📺
+
+Esse é um projeto simples de uma televisão para meu aprendizado e exercício na linguagem Java 
+
 # Sistema Smart TV
 
-Este é um projeto simples de uma Smart TV em Java. O projeto inclui uma classe `SmartTv` que permite ligar e desligar a TV, ajustar o volume e mudar de canal, e uma classe `RemoteControl` que simula o uso do controle remoto para interagir com a TV.
+O projeto inclui uma classe `SmartTv` que permite ligar e desligar a TV, ajustar o volume e mudar de canal, e uma classe `RemoteControl` que simula o uso do controle remoto para interagir com a TV.
 
 ## Funcionalidades
 
@@ -15,5 +20,5 @@ Este é um projeto simples de uma Smart TV em Java. O projeto inclui uma classe 
 sistema-smart-tv/
 ├── src/
 │   ├── SmartTv.java
-│   └── [RemoteControl.java](http://_vscodecontentref_/2)
-└── [README.md](http://_vscodecontentref_/3)
+│   └── RemoteControl.java
+└── [README.md]
